@@ -2,7 +2,7 @@
 ## Introduction
 * This is an Undergraduates’ Innovation and Entrepreneurship Training Program of China 2021, which aimed at developing an object detection model based on CV algorithms that detect Baseband Unit (BBU) devices in base stations from images, devising an automatic acceptance check architecture & procedure and deploying the model to mobile devices, in order to fully automate the acceptance check of base stations.
 * This project is jointly instructed by BUPT and CMCC (China Mobile Communications Group Co., Ltd.). (© 2022 CMCC. All rights reserved.)
-* This project was awarded the 'Municipal Level Project'. (the second best grade)
+* This project was awarded ***'Municipal Level Project' (the second best grade)***.
 
 ## Overview
 * We cleaned the BBU image dataset provided by CMCC and innovatively designed an offline-augmentation pipeline.
