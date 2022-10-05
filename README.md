@@ -10,7 +10,7 @@
 * We exported and deployed our BBU detection model to mobile devices withAndroid OS.
 
 ## Model Generation and Assessment
-In consideration of data privacy of CMCC, we are sorry that complete codes are not available. However, we provide several jupyter notebooks that recorded our preprocessing operations. We recommend interested audiences to visit [English version](https://wandb.ai/seanirlo/YOLOv5/reports/CMDI-Report--VmlldzoyNzI4NDQ4/edit) or [Chinese version](https://wandb.ai/seanirlo/YOLOv5/reports/-BBU---VmlldzoyMDIyMDI1) for the full report of model generation and assessment.
+In consideration of data privacy of CMCC, we are sorry that complete codes are not available. However, we provide several jupyter notebooks that recorded our preprocessing operations. We recommend interested audiences to visit [English version](https://wandb.ai/seanirlo/YOLOv5/reports/CMDI-Report--VmlldzoyNzI4NDQ4) or [Chinese version](https://wandb.ai/seanirlo/YOLOv5/reports/-BBU---VmlldzoyMDIyMDI1) for the full report of model generation and assessment.
 
 ## Model Deployment
 In consideration of technical privacy of CMCC, we are sorry that the final model is not availbale. However, we provide some scripts of our APP that used [nihui/ncnn-android-yolov5](https://github.com/nihui/ncnn-android-yolov5) and [Tencent/ncnn](https://github.com/Tencent/ncnn) as base code.
